@@ -1,5 +1,5 @@
 Privacy Policy
-Effective date: December 12, 2018
+Effective date: September 18, 2019
 
 Shiba Games ("us", "we", or "our") operates the Make the Grade! mobile application (the "Service").
 
