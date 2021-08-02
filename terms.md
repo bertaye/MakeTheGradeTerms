@@ -1,7 +1,7 @@
 Privacy Policy
 Effective date: September 18, 2019
 
-Shiba Games ("us", "we", or "our") operates the Make the Grade! mobile application (the "Service").
+Catchy Games ("us", "we", or "our") operates the Make the Grade! mobile application (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Make the Grade!
 is based on the Free Privacy Policy Template Website.
@@ -33,7 +33,7 @@ Session Cookies. We use Session Cookies to operate our Service.
 Preference Cookies. We use Preference Cookies to remember your preferences and various settings.
 Security Cookies. We use Security Cookies for security purposes.
 Use of Data
-Shiba Games uses the collected data for various purposes:
+Catch Games uses the collected data for various purposes:
 
 To provide and maintain the Service
 To notify you about changes to our Service
